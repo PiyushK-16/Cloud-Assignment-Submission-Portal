@@ -2,7 +2,7 @@
 
 > Cloud-based student assignment submission and feedback platform featuring role-based authentication, cloud database integration, object storage, assignment management, secure file submission, grading, and feedback workflows.
 
-![CI](https://github.com/<your-username>/Cloud-Based-Assignment-Submission-Portal/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/PiyushK-16/Cloud-Based-Assignment-Submission-Portal/actions/workflows/ci.yml/badge.svg)
 
 ## Overview
 Teachers publish assignments with deadlines; students upload their work from anywhere; teachers review, grade and leave feedback; students see marks and feedback. Files live in **private cloud object storage**, metadata lives in a **managed relational cloud database**, and access is controlled by **JWT authentication + role-based authorization**. The same code runs 100% locally (SQLite + local folder) or in the cloud (PostgreSQL + S3-compatible bucket) by changing environment variables only.
@@ -164,4 +164,4 @@ Email/SMS notifications, plagiarism check, ClamAV scanning worker, direct-to-S3 
 Cloud service models, managed DB vs object storage, IAM-style RBAC, secure file handling, REST design, idempotency, CI/CD, deployment and observability.
 
 ## Author
-`Piyush K. Ahirwar` - `IIP / Diploma E-Placement ` - [GitHub](https://github.com/<your-username>) - [LinkedIn](https://www.linkedin.com/in/<your-handle>)
+`Piyush K. Ahirwar` - `IIP / Diploma E-Placement ` - [GitHub](https://github.com/PiyushK-16) - [LinkedIn](https://www.linkedin.com/in/piyush-k-ahirwar-658633261)
